@@ -1,0 +1,15 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+format: jb-book
+root: intro
+chapters:
+- file: Introduction to R.ipynb
+- file: Data Types.ipynb
+- file: Data Structures.ipynb
+- file: Reading and Writing Data.ipynb
+- file: Basic Operations.ipynb
+- file: Handling Missing Data.ipynb
+- file: Descriptive statistics.ipynb
+- file: Hypothesis testing.ipynb
+- file: Regression.ipynb
+- file: Basic graph.ipynb
